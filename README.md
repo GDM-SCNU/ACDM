@@ -1,6 +1,7 @@
 # How Significant Attributes are in the Community Detection of Attributed Multiplex Networks
 Cite the paper
-"""
+
+```
 @inproceedings{10.1145/3539618.3591998,
 author = {Cheng, Junwei and He, Chaobo and Han, Kunlin and Ma, Wenjie and Tang, Yong},
 title = {How Significant Attributes are in the Community Detection of Attributed Multiplex Networks},
@@ -15,4 +16,4 @@ pages = {2057–2061},
 numpages = {5},
 series = {SIGIR '23}
 }
-"""
+```
